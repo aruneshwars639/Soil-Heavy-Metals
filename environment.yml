@@ -1,0 +1,19 @@
+name: soil-tabv4
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.10
+  - pip
+  - numpy
+  - pandas
+  - scikit-learn
+  - matplotlib
+  - pip:
+      - torch
+      - tabm
+      - shap
+      - lime
+      - jupyter
+      - ipykernel
+      - kagglehub
+      - openpyxl

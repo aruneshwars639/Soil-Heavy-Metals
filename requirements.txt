@@ -1,0 +1,19 @@
+# Core scientific stack
+numpy
+pandas
+scikit-learn
+matplotlib
+
+# Tabular deep learning
+torch
+tabm
+
+# Explainability (optional but used in notebook; gracefully skipped if absent)
+shap
+lime
+
+# Notebook / external data helpers (optional)
+jupyter
+ipykernel
+kagglehub
+openpyxl
