@@ -1,0 +1,7 @@
+Rank,Heavy_Metal,Feature,Mean_Absolute_SHAP
+1,Zn,Zn,0.100362
+2,Pb,Pb,0.071017
+3,Cr,Cr,0.070132
+4,Ni,Ni,0.06353
+5,Cu,Cu,0.024324
+6,As,As,0.010092

@@ -1,0 +1,6 @@
+Rank,Model,Accuracy %,Precision %,Recall %,F1 Score %,Macro F1 %,Selection
+1,TabICLv2,99.50,99.52,99.50,99.50,99.38,BEST — carried into the optimizer study
+2,TabM,96.50,96.45,96.50,96.44,86.15,
+3,Tree Ensemble (Hist+Extra),95.00,94.68,95.00,94.73,79.10,
+4,HistGradientBoosting,93.00,92.69,93.00,92.58,76.19,
+5,ExtraTrees,90.50,92.92,90.50,91.11,79.00,

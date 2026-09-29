@@ -36,7 +36,18 @@ soil-heavy-metal-contamination/
 │   ├── train_tabv4.py
 │   └── explain.py
 ├── results/
-│   └── .gitkeep                                # run outputs (CSVs, figures, FINAL_DOCUMENTATION.md)
+│   ├── README.md                               # index of all run outputs
+│   ├── FINAL_DOCUMENTATION.md                  # auto-generated summary
+│   ├── Model_Comparison_Before_Optimizer.*    # baselines (CSV + PNG)
+│   ├── TabV4_Optimizer_*.csv / *.png          # optimizer + architecture search
+│   ├── TabV4_5_Run_*.csv                      # 5-run robustness
+│   ├── TabV4_External_Validation_*.csv        # external validation
+│   ├── TabV4_Dataset_*.csv / *.png            # cross-dataset comparison
+│   ├── TabV4_Preprocessing_*.csv              # preprocessing audit
+│   ├── Research_Finding_*.csv                 # findings 1–6
+│   └── soil_heavy_metal_regularized.csv       # 6 selected metals + target
+├── models/
+│   └── FINAL_TABV4_PROPOSED_MODEL_BEST/       # weights, config, metrics, SHAP/LIME
 └── docs/
     └── METHODOLOGY.md
 ```

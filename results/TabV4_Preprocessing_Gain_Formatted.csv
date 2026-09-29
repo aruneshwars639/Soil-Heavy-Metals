@@ -1,0 +1,7 @@
+Dataset,Protocol,Baseline,Feats,Accuracy (legacy),Accuracy (no index),Accuracy (enhanced),"Gain, no index","Gain, full",Of which index,Macro-F1 gain
+MPA Samples,P1 Replicated,33.33%,20 -> 26,84.18% +/- 1.00%,98.67% +/- 0.48%,98.67% +/- 0.24%,+14.48 pp,+14.48 pp,+0.00 pp,+14.54 pp
+MPA Samples,P2 Covariates-only,33.33%,17 -> 15,54.02% +/- 0.68%,same as full,55.97% +/- 0.81%,+1.95 pp,+1.95 pp,n/a,+2.67 pp
+Soil Pollution Diseases,P1 Replicated,33.33%,81 -> 95,98.03% +/- 0.68%,97.57% +/- 0.71%,97.60% +/- 0.49%,-0.47 pp,-0.43 pp,+0.03 pp,-0.43 pp
+Soil Pollution Diseases,P2 Covariates-only,33.33%,80 -> 90,33.27% +/- 2.25%,same as full,33.50% +/- 1.78%,+0.23 pp,+0.23 pp,n/a,+2.62 pp
+SOIL DATA GR,P1 Replicated,33.42%,16 -> 36,87.52% +/- 3.36%,92.23% +/- 2.93%,93.89% +/- 3.11%,+4.71 pp,+6.37 pp,+1.66 pp,+6.30 pp
+SOIL DATA GR,P2 Covariates-only,33.42%,12 -> 27,70.06% +/- 3.25%,same as full,70.32% +/- 4.61%,+0.25 pp,+0.25 pp,n/a,-0.02 pp

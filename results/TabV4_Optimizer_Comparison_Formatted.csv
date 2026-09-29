@@ -1,0 +1,5 @@
+Rank,Model,Accuracy %,Precision %,Recall %,F1 Score %,Macro F1 %,LR,Selection
+1,TabV4 + RMSprop,96.50,96.82,96.50,96.56,90.19,5.0e-04,PROPOSED (validation-selected)
+2,TabV4 + AdamW,96.50,96.66,96.50,96.43,88.46,3.0e-04,
+3,TabV4 + Lion,96.50,96.45,96.50,96.44,86.15,3.0e-04,
+4,TabV4 + SGD-Momentum,94.00,91.66,94.00,92.81,61.86,1.0e-02,

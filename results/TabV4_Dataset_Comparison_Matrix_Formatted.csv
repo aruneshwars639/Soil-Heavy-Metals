@@ -1,0 +1,15 @@
+Run,P,D1,D2,D3,Protocol
+Run 1,95.00,98.83,97.83,97.45,P1 Replicated
+Run 2,92.00,99.00,97.17,95.54,P1 Replicated
+Run 3,93.50,98.50,97.17,94.27,P1 Replicated
+Run 4,96.00,98.42,97.50,92.99,P1 Replicated
+Run 5,96.50,98.58,98.33,89.17,P1 Replicated
+Test Accuracy,94.60,98.67,97.60,93.89,P1 Replicated
+Std Dev,1.85,0.24,0.49,3.11,P1 Replicated
+Run 1,,57.00,32.50,77.71,P2 Covariates-only
+Run 2,,55.58,33.00,68.15,P2 Covariates-only
+Run 3,,56.67,32.67,68.79,P2 Covariates-only
+Run 4,,55.33,36.67,65.61,P2 Covariates-only
+Run 5,,55.25,32.67,71.34,P2 Covariates-only
+Test Accuracy,,55.97,33.50,70.32,P2 Covariates-only
+Std Dev,,0.81,1.78,4.61,P2 Covariates-only

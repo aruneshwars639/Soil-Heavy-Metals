@@ -1,0 +1,7 @@
+Dataset,Protocol,Raw,Model input,Missing flags,Ratio features,Load index,Quantile-normal,Standardised
+MPA Samples,P1 Replicated,20,26,4,3,yes,14,12
+MPA Samples,P2 Covariates-only,17,15,1,3,no (P2),6,9
+Soil Pollution Diseases,P1 Replicated,81,95,0,10,yes,20,75
+Soil Pollution Diseases,P2 Covariates-only,80,90,0,10,no (P2),15,75
+SOIL DATA GR,P1 Replicated,16,36,0,15,yes,36,0
+SOIL DATA GR,P2 Covariates-only,12,27,0,15,no (P2),27,0

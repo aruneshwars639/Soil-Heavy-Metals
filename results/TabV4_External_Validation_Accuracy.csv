@@ -1,0 +1,4 @@
+Dataset,P1 Replicated,P1 Replicated baseline,P2 Covariates-only,P2 Covariates-only baseline
+MPA Samples,98.67% +/- 0.24%,33.33%,55.97% +/- 0.81%,33.33%
+Soil Pollution Diseases,97.60% +/- 0.49%,33.33%,33.50% +/- 1.78%,33.33%
+SOIL DATA GR,93.89% +/- 3.11%,33.42%,70.32% +/- 4.61%,33.42%

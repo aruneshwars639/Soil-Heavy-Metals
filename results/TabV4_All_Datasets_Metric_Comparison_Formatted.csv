@@ -1,0 +1,8 @@
+Dataset,Protocol,Type,Rows,Features,Baseline,Accuracy,Precision,Recall,F1 Score,Lift
+Soil Heavy Metal (primary study),P1 Replicated,primary,"1,000",6,81.70%,94.60% +/- 1.85%,84.33% +/- 16.61%,76.73% +/- 13.36%,76.66% +/- 11.65%,+12.90 pp
+MPA Samples,P1 Replicated,external,"6,000",26,33.33%,98.67% +/- 0.24%,98.67% +/- 0.24%,98.67% +/- 0.24%,98.67% +/- 0.24%,+65.33 pp
+MPA Samples,P2 Covariates-only,external,"6,000",15,33.33%,55.97% +/- 0.81%,54.57% +/- 1.24%,55.97% +/- 0.81%,54.54% +/- 0.98%,+22.63 pp
+Soil Pollution Diseases,P1 Replicated,external,"3,000",95,33.33%,97.60% +/- 0.49%,97.63% +/- 0.47%,97.60% +/- 0.49%,97.60% +/- 0.49%,+64.27 pp
+Soil Pollution Diseases,P2 Covariates-only,external,"3,000",90,33.33%,33.50% +/- 1.78%,33.19% +/- 1.92%,33.50% +/- 1.78%,32.83% +/- 2.22%,+0.17 pp
+SOIL DATA GR,P1 Replicated,external,781,36,33.42%,93.89% +/- 3.11%,93.94% +/- 3.13%,93.88% +/- 3.11%,93.87% +/- 3.13%,+60.47 pp
+SOIL DATA GR,P2 Covariates-only,external,781,27,33.42%,70.32% +/- 4.61%,70.39% +/- 4.82%,70.26% +/- 4.61%,70.19% +/- 4.80%,+36.90 pp
